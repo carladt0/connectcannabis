@@ -1,0 +1,35 @@
+[29-Jan-2019 17:44:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method User::login() in /home/connectcannabisc/public_html/views/users/login.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/connectcannabisc/public_html/views/users/login.php on line 7
+[29-Jan-2019 10:53:41 America/Vancouver] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/connectcannabisc/public_html/models/user.php on line 133
+[29-Jan-2019 10:55:43 America/Vancouver] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/connectcannabisc/public_html/models/user.php on line 133
+[29-Jan-2019 10:55:56 America/Vancouver] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/connectcannabisc/public_html/models/user.php on line 133
+[29-Jan-2019 11:14:12 America/Vancouver] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/connectcannabisc/public_html/models/user.php on line 133
+[29-Jan-2019 11:17:57 America/Vancouver] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/connectcannabisc/public_html/models/user.php on line 133
+[29-Jan-2019 11:31:01 America/Vancouver] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/connectcannabisc/public_html/models/user.php on line 133
+[30-Jan-2019 17:03:46 UTC] PHP Warning:  require_once(../core/includes.php): failed to open stream: No such file or directory in /home/connectcannabisc/public_html/views/users/signup.php on line 1
+[30-Jan-2019 17:03:46 UTC] PHP Fatal error:  require_once(): Failed opening required '../core/includes.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/connectcannabisc/public_html/views/users/signup.php on line 1
+[30-Jan-2019 17:04:01 UTC] PHP Warning:  require_once(../core/includes.php): failed to open stream: No such file or directory in /home/connectcannabisc/public_html/views/users/signup.php on line 1
+[30-Jan-2019 17:04:01 UTC] PHP Fatal error:  require_once(): Failed opening required '../core/includes.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/connectcannabisc/public_html/views/users/signup.php on line 1
+[30-Jan-2019 09:04:56 America/Vancouver] PHP Warning:  require_once(../elements/footer.php): failed to open stream: No such file or directory in /home/connectcannabisc/public_html/views/users/signup.php on line 47
+[30-Jan-2019 09:04:56 America/Vancouver] PHP Fatal error:  require_once(): Failed opening required '../elements/footer.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/connectcannabisc/public_html/views/users/signup.php on line 47
+[30-Jan-2019 09:04:59 America/Vancouver] PHP Warning:  require_once(../elements/footer.php): failed to open stream: No such file or directory in /home/connectcannabisc/public_html/views/users/signup.php on line 47
+[30-Jan-2019 09:04:59 America/Vancouver] PHP Fatal error:  require_once(): Failed opening required '../elements/footer.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/connectcannabisc/public_html/views/users/signup.php on line 47
+[30-Jan-2019 09:05:01 America/Vancouver] PHP Warning:  require_once(../elements/footer.php): failed to open stream: No such file or directory in /home/connectcannabisc/public_html/views/users/signup.php on line 47
+[30-Jan-2019 09:05:01 America/Vancouver] PHP Fatal error:  require_once(): Failed opening required '../elements/footer.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/connectcannabisc/public_html/views/users/signup.php on line 47
+[30-Jan-2019 09:05:07 America/Vancouver] PHP Warning:  require_once(../elements/footer.php): failed to open stream: No such file or directory in /home/connectcannabisc/public_html/views/users/signup.php on line 47
+[30-Jan-2019 09:05:07 America/Vancouver] PHP Fatal error:  require_once(): Failed opening required '../elements/footer.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/connectcannabisc/public_html/views/users/signup.php on line 47
+[30-Jan-2019 09:05:10 America/Vancouver] PHP Warning:  require_once(../elements/footer.php): failed to open stream: No such file or directory in /home/connectcannabisc/public_html/views/users/signup.php on line 47
+[30-Jan-2019 09:05:10 America/Vancouver] PHP Fatal error:  require_once(): Failed opening required '../elements/footer.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/connectcannabisc/public_html/views/users/signup.php on line 47
+[30-Jan-2019 09:05:18 America/Vancouver] PHP Warning:  require_once(../elements/footer.php): failed to open stream: No such file or directory in /home/connectcannabisc/public_html/views/users/signup.php on line 47
+[30-Jan-2019 09:05:18 America/Vancouver] PHP Fatal error:  require_once(): Failed opening required '../elements/footer.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/connectcannabisc/public_html/views/users/signup.php on line 47
+[30-Jan-2019 19:33:39 UTC] PHP Warning:  require_once(../core/includes.php): failed to open stream: No such file or directory in /home/connectcannabisc/public_html/views/users/profile.php on line 1
+[30-Jan-2019 19:33:39 UTC] PHP Fatal error:  require_once(): Failed opening required '../core/includes.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/connectcannabisc/public_html/views/users/profile.php on line 1
+[30-Jan-2019 11:35:15 America/Vancouver] PHP Warning:  require_once(../elements/footer.php): failed to open stream: No such file or directory in /home/connectcannabisc/public_html/views/users/profile.php on line 25
+[30-Jan-2019 11:35:15 America/Vancouver] PHP Fatal error:  require_once(): Failed opening required '../elements/footer.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/connectcannabisc/public_html/views/users/profile.php on line 25
+[30-Jan-2019 20:33:38 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/connectcannabisc/public_html/views/users/profile.php on line 53
+[31-Jan-2019 17:44:43 UTC] PHP Warning:  require_once(../core/includes.php): failed to open stream: No such file or directory in /home/connectcannabisc/public_html/views/users/edit.php on line 1
+[31-Jan-2019 17:44:43 UTC] PHP Fatal error:  require_once(): Failed opening required '../core/includes.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/connectcannabisc/public_html/views/users/edit.php on line 1
+[31-Jan-2019 09:45:15 America/Vancouver] PHP Warning:  require_once(../elements/html_head.php): failed to open stream: No such file or directory in /home/connectcannabisc/public_html/views/users/edit.php on line 13
+[31-Jan-2019 09:45:15 America/Vancouver] PHP Fatal error:  require_once(): Failed opening required '../elements/html_head.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/connectcannabisc/public_html/views/users/edit.php on line 13
